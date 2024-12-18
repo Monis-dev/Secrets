@@ -1,6 +1,6 @@
 # It's A Secret
 
-It's A Secret is a fun and interactive website that allows users to share and read secrets anonymously. Dive into the world of anonymous confessions and discover what people are sharing!
+It's A Secret is a fun website that allows users to read secrets of other people.
 
 ## Features
 - Share secrets anonymously.
